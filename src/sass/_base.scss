@@ -72,4 +72,9 @@ body {
 
 .my-version {
   text-align: center;
+  display: none;
+}
+
+button.nav__btn.nav__btn--add-recipe {
+  display: none;
 }
